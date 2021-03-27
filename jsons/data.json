@@ -1,0 +1,47 @@
+{
+  "data": [
+    {
+      "street_name": "JSON square 12",
+      "street_type": "Square",
+      "id": "X 1234567-P"
+    },
+    {
+      "name": "Jean Doe",
+      "phone_number": 616000000,
+      "street_name": "python's exception 23, 1",
+      "street_type": "Street",
+      "birth_date": "19912",
+      "food_preferences": "Vegan",
+      "email": "@gmailcom"
+    },
+    {
+      "name": "Alex Dotcom",
+      "street_name": "Java Class 7, 8",
+      "street_type": "Avenue",
+      "birth_date": "1998-04-03",
+      "interests": ["work","jobs","production"],
+      "email": "gmail.com",
+      "id": "4352500000-X"
+    },
+    {
+      "name": "Dr. X",
+      "id": "39076586-T",
+      "phone_number": 609000000,
+      "street_name": "PHP spaguetti code 169, 5",
+      "street_type": "Boulevard",
+      "birth_date": "1984-11-01",
+      "interests": "Rule the world",
+      "email": "doctor@gmail.com"
+    },
+    {
+      "name": "Dra. Laura",
+      "id": "61360424-N",
+      "phone_number": 6090045300,
+      "street_name": "PHP spaguetti code 169, 5",
+      "street_type": "Boulevard",
+      "birth_date": "1944-11-01",
+      "interests": "Rule the world",
+      "email": "laura@gmail.com"
+    }
+  ]
+}
